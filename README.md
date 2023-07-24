@@ -1,4 +1,4 @@
-# netflixStockPrediction
+# Netflix-Stock-Predictions
 
 A time series analysis of historical data of Netflix stocks. The model utilizes three diffferent approaches to calculate the values.
 
